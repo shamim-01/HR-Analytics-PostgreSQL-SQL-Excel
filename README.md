@@ -29,25 +29,6 @@ The project demonstrates practical skills in **Data Analysis, Excel, SQL, Postgr
 
 ---
 
-## 📁 Project Structure
-
-```text
-HR-Analytics-Portfolio/
-│
-├── README.md
-│
-├── Excel-HR-Analytics/
-│   ├── HR-Analytics-Dashboard.xlsm
-│   └── README.md
-│
-├── SQL-HR-Analytics/
-│   ├── HR-Analytics.sql
-│   └── README.md
-│
-└── screenshots/
-    ├── excel-dashboard.png
-    └── sql-analysis.png
-````
 
 ---
 
