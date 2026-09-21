@@ -296,7 +296,7 @@ The main objectives of this project are to:
 
 ## SQL Analysis
 
-![SQL HR Analysis](sql.png)
+![SQL HR Analysis](Sql.png)
 
 ---
 
