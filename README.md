@@ -292,11 +292,11 @@ The main objectives of this project are to:
 
 ## Excel Dashboard
 
-![Excel HR Dashboard](screenshots/excel-dashboard.png)
+![Excel HR Dashboard](dashboard.png)
 
 ## SQL Analysis
 
-![SQL HR Analysis](screenshots/sql-analysis.png)
+![SQL HR Analysis](sql.png)
 
 ---
 
@@ -304,7 +304,7 @@ The main objectives of this project are to:
 
 ## Excel
 
-1. Download the Excel workbook from the `Excel-HR-Analytics` folder.
+1. Download the Excel workbook from the `HR_Analysis` folder.
 2. Open `HR-Analytics-Dashboard.xlsm` using Microsoft Excel.
 3. Open the **Dashboard** sheet.
 4. Explore the supporting **Pivot** and **Data** sheets.
@@ -327,7 +327,7 @@ This project demonstrates how the same HR dataset can be analyzed using both:
 
 **Dashboard → PivotTables → Visualization**
 
-### SQL
+### SQ
 
 **Database → Queries → Aggregation → Analysis**
 
@@ -346,5 +346,4 @@ Data Analytics Portfolio Project
 ⭐ Thanks for visiting this project!
 
 
-আর `screenshots` folder-এ তোমার Excel Dashboard-এর screenshot রাখলে GitHub page-এ dashboard preview-ও দেখা যাবে।
-```
+
